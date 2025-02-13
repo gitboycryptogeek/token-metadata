@@ -1,0 +1,39 @@
+{
+    "name": "MoneyTrees Token",
+    "symbol": "MULLAT",
+    "description": "MULLAT is the utility token of the MoneyTrees ecosystem, designed to bridge traditional finance with blockchain technology through P2P transactions. It enables easy access to blockchain technology through P2P transactions and serves as a utility token across MoneyTrees platforms.",
+    "image": "https://www.moneytreesincorporated.com/favicon.ico",
+    "external_url": "https://www.moneytreesincorporated.com/",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Utility Token"
+        },
+        {
+            "trait_type": "Ecosystem",
+            "value": "MoneyTrees"
+        },
+        {
+            "trait_type": "Use Case",
+            "value": "P2P Transactions"
+        },
+        {
+            "trait_type": "Platform",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Token Type",
+            "value": "SPL Token"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.moneytreesincorporated.com/favicon.ico",
+                "type": "image/x-icon"
+            }
+        ],
+        "category": "token",
+        "creators": []
+    }
+}
