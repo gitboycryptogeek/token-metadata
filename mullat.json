@@ -1,27 +1,69 @@
 {
-  "name": "MoneyTrees Token",
-  "symbol": "MULLAT",
-  "description": "MULLAT is the utility token of the MoneyTrees ecosystem, designed to bridge traditional finance with blockchain technology through P2P transactions.",
-  "image": "https://raw.githubusercontent.com/gitboycryptogeek/token-metadata/main/android-chrome-192x192.png",
-  "external_url": "https://moneytreesprotocol.com",
-  "attributes": [
-    {
-      "trait_type": "Standard",
-      "value": "SPL Token"
+    "schema": "https://token-metadata.metaplex.com/schema/metadata.json",
+    "name": "MoneyTrees Token",
+    "symbol": "MULLAT",
+    "description": "MULLAT is the utility token of the MoneyTrees ecosystem, designed to bridge traditional finance with blockchain technology through P2P transactions. It enables easy access to blockchain technology through peer-to-peer transactions and serves as a utility token across MoneyTrees platforms.",
+    "slug": "money-trees-token",
+    "tags": ["finance", "p2p", "blockchain", "utility-token", "solana"],
+    "website": "https://www.moneytreesincorporated.com/",
+    "twitter": "https://twitter.com/MoneyTreesInc",
+    "telegram": "https://t.me/moneytreescommunity",
+    "discord": "https://discord.gg/moneytrees",
+    "image": "https://www.moneytreesincorporated.com/favicon.ico",
+    "external_url": "https://www.moneytreesincorporated.com/token",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+        "coingeckoId": null,
+        "coinmarketcapId": null,
+        "address": "8QNq2FzkPwunFiGybaj54YPbPLufHZ15J9vgSNzr9TdK"
     },
-    {
-      "trait_type": "Decimals",
-      "value": 6
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/gitboycryptogeek/token-metadata/main/mullat.png",
-        "type": "image/png"
-      }
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Utility Token"
+        },
+        {
+            "trait_type": "Ecosystem",
+            "value": "MoneyTrees"
+        },
+        {
+            "trait_type": "Use Case",
+            "value": "P2P Transactions"
+        },
+        {
+            "trait_type": "Platform",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Token Type",
+            "value": "SPL Token"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "1,000,000,000"
+        },
+        {
+            "trait_type": "Launch Date",
+            "value": "2024"
+        }
     ],
-    "category": "token",
-    "creators": []
-  }
+    "properties": {
+        "files": [
+            {
+                "uri": "https://www.moneytreesincorporated.com/favicon.ico",
+                "type": "image/x-icon",
+                "cdn": true
+            }
+        ],
+        "category": "token",
+        "creators": [
+            {
+                "address": "8QNq2FzkPwunFiGybaj54YPbPLufHZ15J9vgSNzr9TdK",
+                "share": 100
+            }
+        ]
+    },
+    "tokenStandard": "TokenStandard.Fungible",
+    "verified": true
 }
